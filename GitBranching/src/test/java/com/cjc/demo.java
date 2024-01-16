@@ -6,6 +6,11 @@ public class demo
   {
     System.out.println("M1_Method");
   }
+
+  public void m2()
+  {
+    System.out.println("M2_Method");
+  }
   public static void main(String[] args) 
   {
      System.out.println("Git Branch");
