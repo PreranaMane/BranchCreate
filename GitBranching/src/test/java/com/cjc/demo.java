@@ -14,5 +14,8 @@ public class demo
   public static void main(String[] args) 
   {
      System.out.println("Git Branch");
+    demo d = new demo();
+    d.m1();
+    d.m2();
   }
 }
